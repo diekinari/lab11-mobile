@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IntentBrowser</string>
+    <string name="title_main">Сторонние приложения</string>
+    <string name="title_browser">Мини-браузер</string>
+
+    <!-- Главный экран -->
+    <string name="main_title">Работа со сторонними приложениями</string>
+    <string name="main_subtitle">Вызов внешних приложений через Intent</string>
+    <string name="btn_phone">Позвонить</string>
+    <string name="btn_browser">Открыть браузер</string>
+    <string name="btn_email">Написать письмо</string>
+    <string name="btn_market">Google Play</string>
+    <string name="label_flashlight">Фонарик</string>
+    <string name="flash_on">Выключить фонарик</string>
+    <string name="flash_off">Включить фонарик</string>
+    <string name="btn_open_browser">Открыть мини-браузер</string>
+
+    <!-- Экран браузера -->
+    <string name="btn_home">Домой</string>
+    <string name="btn_search">Поиск</string>
+    <string name="hint_url">Введите адрес сайта</string>
+</resources>
