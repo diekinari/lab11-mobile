@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.navigation10'
+    namespace 'com.example.navigation11'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.navigation10"
+        applicationId "com.example.navigation11"
         minSdk 24
         targetSdk 34
         versionCode 1

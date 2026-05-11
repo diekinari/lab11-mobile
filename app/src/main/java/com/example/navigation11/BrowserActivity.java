@@ -1,4 +1,4 @@
-package com.example.navigation10;
+package com.example.navigation11;
 
 import android.os.Bundle;
 import android.webkit.WebSettings;
